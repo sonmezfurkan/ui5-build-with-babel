@@ -36,4 +36,4 @@ type: task
 metadata:
   name: transpile-babel
 task:
-  path: lib/tasks/transpile-babel.js
+  path: transpile-babel.js
